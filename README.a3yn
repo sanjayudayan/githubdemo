@@ -1,4 +1,14 @@
-NAME:SANJAY U
-DEPARTMENT:ECE
-YEAR:FIRST YEAR
-This is the readme file regarding the github activity
+# GitHub Setup Activity
+
+Name: Sanjay U
+Register Number: 922525106275
+Department: I-ECE-E
+
+This repository was created as part of the GitHub Setup Activity.
+
+## Contents
+- README.md – Information about the repository
+- test.txt – Sample test file
+
+## Purpose
+To learn how to create a GitHub repository, upload files, and manage basic version control.
