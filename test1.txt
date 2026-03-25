@@ -1,2 +1,6 @@
-create test1.txt file
-This is test file regarding the github activity
+This is a test file created for the GitHub Setup Activity.
+
+Purpose:
+To demonstrate how to upload files to a GitHub repository.
+
+Created by: SANJAY U
